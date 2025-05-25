@@ -1,2 +1,1 @@
-const myVar='Javascript is amazing'
-console.log(myVar)
+This is a practice javascript file that outputs a single statement
